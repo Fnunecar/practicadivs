@@ -1,0 +1,34 @@
+th {
+    color: rgb(86, 3, 6);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    font-style: oblique;
+    background: pink;
+}
+
+td {
+    text-align: center;
+    font-weight: 800;
+    font-style: italic;
+    
+}
+
+.cambioColor {
+    color: orangered;
+}
+
+.cambioColor2 {
+    color: rgb(189, 117, 10);
+}
+
+.cambioColor3 {
+    color: yellow;
+}
+
+table {
+    background: rgb(153, 233, 189);
+    border: 50cm;
+    border-color: red;
+    width: 15%;
+    height: 200px;
+}
